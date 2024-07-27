@@ -6,7 +6,7 @@ My name is Ngo Duy Hoang Long, I was born in 2003, and below is my introduction.
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Bui.Ngoc.1302)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/wuthenryduing)
 
 # 💻 Tech Stack:
 
