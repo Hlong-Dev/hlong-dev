@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-Hi, I'm Bui Ngoc!
+My name is Ngo Duy Hoang Long, I was born in 2003, and below is my introduction.
 
 ## 🌐 Socials:
 
