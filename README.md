@@ -55,7 +55,7 @@ My name is Ngo Duy Hoang Long, I was born in 2003, and below is my introduction.
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ngoc2003&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=hlongday-creator&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
 
