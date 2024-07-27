@@ -45,12 +45,13 @@ I'm Ngo Duy Hoang Long, born in 2003. Here's a bit about me and my work.
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hlongday-creator&theme=dark&hide_border=false&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hlongday-creator&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlongday-creator&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ngoc2003&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10&count_private=true" alt="Wakatime Stats" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=hlongday-creator&theme=dark&hide_border=false&count_private=true" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hlongday-creator&theme=dark&hide_border=false" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlongday-creator&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ngoc2003&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10&count_private=true" alt="Wakatime Stats" width="400"/>
 </div>
+
 
 ### 🏆 GitHub Trophies
 <div align="center">
