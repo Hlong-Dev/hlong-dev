@@ -51,15 +51,7 @@ I'm Ngo Duy Hoang Long, born in 2003. Here's a bit about me and my work.
       <img src="https://github-readme-stats.vercel.app/api?username=hlongday-creator&theme=dark&hide_border=false&count_private=true" alt="GitHub Stats" style="width: 100%;" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hlongday-creator&theme=dark&hide_border=false" alt="GitHub Streak" style="width: 80%;" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlongday-creator&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 100%;" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ngoc2003&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10&count_private=true" alt="Wakatime Stats" style="width: 80%;" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hlongda100%;" />
     </td>
   </tr>
 </table>
