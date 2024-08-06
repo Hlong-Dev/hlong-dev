@@ -63,16 +63,6 @@ I'm Ngo Duy Hoang Long, born in 2003. Here's a bit about me and my work.
     </td>
   </tr>
 </table>
-
-
-
-
-
-### ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</div>
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=hlongday-creator&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
