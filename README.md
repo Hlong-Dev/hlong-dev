@@ -67,10 +67,6 @@ I'm Ngo Duy Hoang Long, born in 2003. Here's a bit about me and my work.
 
 
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hlongday-creator&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
 
 ### ✍️ Random Dev Quote
 <div align="center">
