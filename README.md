@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 💫 About Me
-I'm Ngo Duy Hoang Long, born in 2003. Here's a bit about me and my work.
+I'm Ngo Duy Hoang Long. Here's a bit about me and my work.
 
 ### 🌐 Socials
 [![Fafae](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/wuthenryduing)
