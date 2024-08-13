@@ -56,7 +56,7 @@ I'm Ngo Duy Hoang Long. Here's a bit about me and my work.
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlongday-creator&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 100%;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlongday-creator&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 100% height:163px;" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hlongday&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10&count_private=true" alt="Wakatime Stats" style="width: 100%;" />
