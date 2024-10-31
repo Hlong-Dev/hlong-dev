@@ -5,7 +5,7 @@ I'm Ngo Duy Hoang Long. Here's a bit about me and my work.
 
 ### 🌐 Socials
 [![Fevhj=a](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/wuthenryduing)
-[![Facecvbook](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pireseduardo/)](https://www.linkedin.com/in/ng%C3%B4-duy-ho%C3%A0ng-long-041277235/)
+[![Facecvbookv](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pireseduardo/)](https://www.linkedin.com/in/ng%C3%B4-duy-ho%C3%A0ng-long-041277235/)
 ### 💻 Tech Stack
 #### Languages & Frameworks
 ![C#](https://img.shields.io/badge/.NET-grey?style=for-the-badge&logo=dotnet)
