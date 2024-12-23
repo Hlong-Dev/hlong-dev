@@ -43,14 +43,7 @@ I'm Ngo Duy Hoang Long. Here's a bit about me and my work.
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=hlong-dev&theme=dark&hide_border=false" alt="GitHub Streak" style="width: 100%;" />
     </td>
   </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlong-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 100%;" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hlongday&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10&count_private=true" alt="Wakatime Stats" style="width: 100%;" />
-    </td>
-  </tr>
+ 
 </table>
 ---
 
