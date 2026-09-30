@@ -1,50 +1,71 @@
-## Hi there 👋
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:7aa2f7&height=200&section=header&text=Ngo%20Duy%20Hoang%20Long&fontSize=42&fontColor=c0caf5&animation=fadeIn&fontAlignY=36&desc=Full-stack%20Developer&descAlignY=56&descSize=18" alt="header" />
+</p>
 
-### 💫 About Me
-I'm Ngo Duy Hoang Long. Here's a bit about me and my work.
+<p align="center">
+  <a href="https://github.com/Hlong-Dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Long+%F0%9F%91%8B;Full-stack+Developer;React+%C2%B7+Next.js+%C2%B7+Node.js;Spring+Boot+%C2%B7+.NET;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
-### 🌐 Socials
-[![suuuwfudnn](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/wuthenryduing)
-[![nFacecvbhsvmb](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pireseduardo/)](https://www.linkedin.com/in/ng%C3%B4-duy-ho%C3%A0ng-long-041277235/)
-### 💻 Tech Stack
-#### Languages & Frameworks
-![C#](https://img.shields.io/badge/.NET-grey?style=for-the-badge&logo=dotnet)
-![C#](https://img.shields.io/badge/SPRINGBOOT-black?style=for-the-badge&logo=spring)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ng%C3%B4-duy-ho%C3%A0ng-long-041277235/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/wuthenryduing"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <img src="https://komarev.com/ghpvc/?username=hlong-dev&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-#### Databases & Hosting
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-#### UI & Design
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
-
-
-### 📊 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=hlong-dev&theme=dark&hide_border=false&count_private=true" alt="GitHub Stats" style="width: 100%;" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hlong-dev&theme=dark&hide_border=false" alt="GitHub Streak" style="width: 100%;" />
-    </td>
-  </tr>
- 
-</table>
 ---
 
-[![](https://visitcount.itsvg.in/api?id=hlongday-creator&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
+### 💫 About Me
+
+- 👨‍💻 I'm **Ngo Duy Hoang Long**, a developer working across the full stack
+- 🧱 I build web apps end-to-end: from the database, through the API, to the UI
+- 🌱 Always exploring new tools and frameworks
+- 💬 Ask me about **React**, **Next.js**, **Node.js**, **Spring Boot** or **.NET**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <b>Languages & Frameworks</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,nodejs,spring,dotnet&perline=9" alt="Languages & Frameworks" />
+</p>
+
+<p align="center">
+  <b>Databases & Hosting</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&perline=9" alt="Databases & Hosting" />
+  <br/>
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
+</p>
+
+<p align="center">
+  <b>UI & Design</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,styledcomponents&perline=9" alt="UI & Design" />
+  <br/>
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" alt="Ant Design" />
+  <img src="https://img.shields.io/badge/Semantic%20UI%20React-35BDB2?style=flat-square&logo=semanticuireact&logoColor=white" alt="Semantic UI React" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hlong-dev&theme=tokyonight" alt="Profile details" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hlong-dev&theme=tokyonight" alt="Stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hlong-dev&theme=tokyonight" alt="Most commit languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hlong-dev&theme=tokyonight&hide_border=true&background=1A1B27" alt="GitHub Streak" />
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:24283b,100:1a1b27&height=120&section=footer" alt="footer" />
+</p>
